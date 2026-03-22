@@ -110,7 +110,7 @@ ecommerce-customer-behavior-analysis/
 ---
 
 ## Author
-Name: Akash Babra
-Tool: Excel + Power BI
-Dataset: Olist Brazilian E-Commerce (Kaggle)
+##Name: Akash Babra
+#Tool: Excel + Power BI
+#Dataset: Olist Brazilian E-Commerce (Kaggle)
 ```
